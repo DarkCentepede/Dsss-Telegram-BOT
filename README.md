@@ -1,4 +1,4 @@
-# Telegram Bot Project
+# Telegram Bot using TinyLlama
 
 This project is a simple Telegram bot that utilizes the `transformers` library and the TinyLlama model for text generation. The bot responds to user messages by generating text responses based on the input.
 
